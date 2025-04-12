@@ -35,12 +35,18 @@ NLP-powered network graph of men's fashion brands, styles, and Reddit sentiment.
 - `CLIENT_SECRET = "your_secret"`
 - `USER_AGENT = "your_agent"`
 
+## License
+
+This project is not licensed for reuse. Please do not copy, reproduce, or redistribute any part of this codebase without explicit permission.
+
 
 Install with:
 
 ```bash
 pip install -r requirements.txt
 python -m spacy download en_core_web_sm
+
+
 
 
 
